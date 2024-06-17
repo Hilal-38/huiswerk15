@@ -1,0 +1,77 @@
+p {
+    text-align: center;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
+
+
+header {
+    padding: 5px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+li {
+    display: inline-block;
+    height: 30px;
+    width: 28%;
+    padding: 5px;
+    border: 4px solid darkslateblue;
+    text-align: center;
+    background-color: darkblue;
+}
+
+li:hover {
+    background-color: darkslateblue;
+    border-style: none;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+}
+
+table {
+    border: 4px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    border: 4px solid black;
+}
+
+form {
+    display: block;
+    margin: 15px 0px;
+}
+
+img {
+    width: 50%;
+    padding: 50px;
+}
+
+button:active {
+    color: red;
+    background-color: blue;
+}
